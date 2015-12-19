@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="activity_age_maxlength">2</integer>
+    <integer name="activity_phone_maxlength">11</integer>
+</resources>
